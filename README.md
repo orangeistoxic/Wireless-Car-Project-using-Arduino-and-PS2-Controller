@@ -18,6 +18,6 @@ https://swf.com.tw/?p=1066   TB6612NG教學
 
 https://blog.jmaker.com.tw/ps2x/    PS2教學
 
-https://drive.google.com/drive/folders/1-ZkhjGUkirbpYq1ahDRvZcH2n_VfsJ1e。簡報
+https://drive.google.com/drive/folders/1-ZkhjGUkirbpYq1ahDRvZcH2n_VfsJ1e  簡報
 
 
