@@ -1,6 +1,6 @@
 # Wireless-Car-Project-using-Arduino-and-PS2-Controller
 
-大學專題：遙控抓球車車
+2024Spring機械實作專題：遙控抓球車車
 
 使用PS2手把來進行控制
 
@@ -18,4 +18,6 @@ https://swf.com.tw/?p=1066   TB6612NG教學
 
 https://blog.jmaker.com.tw/ps2x/    PS2教學
 
-簡報晚點附上
+https://drive.google.com/drive/folders/1-ZkhjGUkirbpYq1ahDRvZcH2n_VfsJ1e。簡報
+
+
